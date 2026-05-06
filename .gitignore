@@ -1,0 +1,16 @@
+node_modules/
+
+# Generated reports
+*-performance-report.html
+*.report.html
+
+# k6 result files (may contain real test data)
+k6-output.json
+k6-results.json
+
+# Sample generated output (kept in sample/ for reference, ignore root-level ones)
+/load-*.html
+/stress-*.html
+/smoke-*.html
+/soak-*.html
+/spike-*.html
