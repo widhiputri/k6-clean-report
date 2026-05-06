@@ -12,7 +12,7 @@
   "files": [
     "bin/",
     "src/",
-    "examples/",
+    "sample/",
     "README.md",
     "LICENSE"
   ],
